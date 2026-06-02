@@ -107,7 +107,7 @@ const char* chatID = "YOUR_CHAT_ID";
 ```bash
 anti-theft-alarm-system/
 ├── README.md
-├── ESP32 anti theft alarm.ino
+├── ESP32 Anti Theft Alarm.ino
 └── images/
 ```
 
